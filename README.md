@@ -4,7 +4,7 @@ Official Ledington desktop installers and the automatic update feed.
 
 The first supported platform is Apple Silicon on macOS 13 or later. Releases are signed by Fusial LLC and notarized by Apple before publication.
 
-Download the [Ledington 0.1.2 for Apple Silicon](https://github.com/ledingtonapp/desktop-releases/releases/download/v0.1.2/Ledington_0.1.2_aarch64.dmg), or browse the [releases page](https://github.com/ledingtonapp/desktop-releases/releases). Ledington 0.1.2 is signed, notarized and available now.
+Download [Ledington 0.1.3 for Apple Silicon](https://github.com/ledingtonapp/desktop-releases/releases/download/v0.1.3/Ledington_0.1.3_aarch64.dmg), or browse the [releases page](https://github.com/ledingtonapp/desktop-releases/releases). This release fixes startup opening the marketing website and opens the terminal sign-in flow directly.
 
 After installing an updater-enabled release (0.1.2 or later), Ledington checks for updates automatically. You can also choose **Ledington → Check for Updates…**. Updates download in the background and install when you quit and reopen the app, after saving your work.
 
